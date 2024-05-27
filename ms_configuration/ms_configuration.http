@@ -1,0 +1,6 @@
+@ms_configuration_HostAddress = http://localhost:5014
+
+GET {{ms_configuration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
